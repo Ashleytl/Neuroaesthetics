@@ -1,4 +1,8 @@
- 
+ # 神经美学 Neuroaesthetics
+
+研究神经美学，了解在艺术发生时，大脑的工作原理。
+
+
 
 ### History 
 
