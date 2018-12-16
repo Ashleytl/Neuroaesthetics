@@ -29,7 +29,7 @@
 ### Books
 
 - [《认知神经科学》](https://book.douban.com/subject/5937126/)
-- [《艺术的起源》](https://book.douban.com/subject/2339140/）
+- [《艺术的起源》](https://book.douban.com/subject/2339140/)
 - [《笛卡尔的错误》](https://book.douban.com/subject/2157346/)
 - [《The_Aesthetic_Brain_How We Evolved to Desire Beauty and Enjoy Art》](https://book.douban.com/subject/24536212/)
 - [《艺术心理与有意识大脑的进化》](https://book.douban.com/subject/30143272/)
