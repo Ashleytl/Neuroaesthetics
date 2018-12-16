@@ -16,7 +16,7 @@
     - [Zeki on Wikipedia](https://en.wikipedia.org/wiki/Semir_Zeki)
 
 
-### Article 
+### Articles 
 
 - [Neuroaesthetics: A Coming of Age Story](https://www.mitpressjournals.org/doi/10.1162/jocn.2010.21457)神经美学关键论文
 - [Neuroaesthetics](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(14)00075-8)
@@ -26,8 +26,13 @@
 - [Neuroaesthetics: Responding to the Critics](https://www.psychologytoday.com/us/blog/mindmelding/201212/neuroaesthetics-responding-the-critics)对神经美学持不同意见的回应。
 
 
-### Book
+### Books
 
+- [《认知神经科学》](https://book.douban.com/subject/5937126/)
+- [《艺术的起源》](https://book.douban.com/subject/2339140/）
+- [《笛卡尔的错误》](https://book.douban.com/subject/2157346/)
+- [《The_Aesthetic_Brain_How We Evolved to Desire Beauty and Enjoy Art》](https://book.douban.com/subject/24536212/)
+- [《艺术心理与有意识大脑的进化》](https://book.douban.com/subject/30143272/)
 
 ### Criticism 
 
@@ -44,7 +49,7 @@
 将脑神经科学应用于理解艺术上的局限性（英语）
 
 
-### Resource 
+### Resources 
 - [神经美学期刊](http://www.artbrain.org/journal-of-neuro-aesthetic-theory/) 
 - [Neuroaesthetics.net](https://neuroaesthetics.net/) 一个综合神经美学各种资源的网站，包括书本，论文，综合介绍，还有领域科学家的Twitter更新。
 
@@ -53,5 +58,6 @@
 #### ChangLog
 
 - 20181023 update to Github
+- 20181216 update books 1-5
 
 
